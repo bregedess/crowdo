@@ -1,0 +1,6 @@
+load 'triangle.rb'
+load 'fibonacci.rb'
+load 'reverse_array.rb'
+load 'remove_duplicate_array.rb'
+load 'count_duplicate_array.rb'
+load 'find_number.rb'
